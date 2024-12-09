@@ -6,7 +6,7 @@ const Navbar = () => {
       {/* Top Purple Section */}
       <div className="w-full bg-purple-600 text-white py-3">
         <div className="container mx-auto px-4 flex justify-between items-center text-sm">
-          <span>mhhasanul@gmail.com</span>
+          <span>hammmad099987@gmail.com</span>
           <span>(12345) 67890</span>
           <div className="flex items-center gap-4 text-sm">
           <span>English</span>
